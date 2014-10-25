@@ -1,6 +1,5 @@
 Memory
 ======
-<br>
 
 This is a Halloween themed memory game that consists of two players.
 
